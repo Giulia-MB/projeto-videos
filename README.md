@@ -39,6 +39,6 @@ Esse é um projeto de estudo, criado durante meus primeiros passos com desenvolv
 
 ## 🧑🏼‍💻 Confira o código aqui
 
--git add. <a href="https://github.com/giulia-mb/projeto-videos" target="_blank">Código do Projeto Vídeos</a>
+- <a href="https://github.com/giulia-mb/projeto-videos" target="_blank">Código do Projeto Vídeos</a>
 
 
