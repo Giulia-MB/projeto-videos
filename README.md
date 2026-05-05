@@ -44,6 +44,8 @@ O material original do curso está disponível sob a **Licença MIT**, permitind
 - <a href="https://www.cursoemvideo.com/cursos/" target="_blank">Página de cursos do Curso em Vídeo</a>
 - <a href="https://gustavoguanabara.github.io/" target="_blank">Repositório do curso do professor Gustavo Guanabara</a>
 
+Copyright (c) 2020 Gustavo Guanabara
+
 ## ▶️ Execute aqui
 
 - <a href="https://giulia-mb.github.io/projeto-videos/index.html" target="_blank">Projeto Vídeos</a>
