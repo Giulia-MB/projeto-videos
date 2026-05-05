@@ -33,6 +33,17 @@ Ao clicar em uma miniatura, o usuário é levado para uma página própria, que 
 
 Esse é um projeto de estudo, criado durante meus primeiros passos com desenvolvimento web. Mesmo sendo simples, ele ajudou a entender melhor como páginas HTML podem se conectar e formar um pequeno site navegável.
 
+## 📄 Licença e créditos
+
+Este projeto foi desenvolvido como parte de um desafio do **Curso HTML5 e CSS3**, do **Curso em Vídeo**, ministrado pelo professor **Gustavo Guanabara**.
+
+O material original do curso está disponível sob a **Licença MIT**, permitindo uso, cópia, modificação e distribuição, desde que o aviso de copyright e a licença sejam mantidos.
+
+- <a href="https://github.com/gustavoguanabara/html-css/blob/master/LICENSE" target="_blank">Licença MIT do material original</a>
+- <a href="https://www.youtube.com/@cursoemvideo" target="_blank">Canal Curso em Vídeo no YouTube</a>
+- <a href="https://www.cursoemvideo.com/cursos/" target="_blank">Página de cursos do Curso em Vídeo</a>
+- <a href="https://gustavoguanabara.github.io/" target="_blank">Repositório do curso do professor Gustavo Guanabara</a>
+
 ## ▶️ Execute aqui
 
 - <a href="https://giulia-mb.github.io/projeto-videos/index.html" target="_blank">Projeto Vídeos</a>
